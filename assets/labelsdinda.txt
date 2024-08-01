@@ -1,0 +1,4 @@
+0 basal cell carcinoma
+1 melanoma
+2 squamous cell carcinoma
+3 normal
